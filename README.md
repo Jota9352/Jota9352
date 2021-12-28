@@ -1,5 +1,4 @@
 - 👋 Hi, you can call me José
-- 👀 I’m interested in games, music, art and Harry Potter books series
 - 🌱 I’m currently learning mostly Python, but also HTML, CSS and Javascript
 
 <!---
