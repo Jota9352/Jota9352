@@ -1,2 +1,4 @@
-- 👋 Hi, I'm José,
-- 🌱 I’m currently learning C++, Javascript, HTML5, CSS3. My Python skills are currently on hiatus.
+José
+: ʒoˈzɛ
+
+Currently learning Javascript, HTML5, CSS5 and a little of C++. Did learn Python, but I'm not studying or practicing it anymore because isn't my currently goal --- *even though I still have a passion for it*.
