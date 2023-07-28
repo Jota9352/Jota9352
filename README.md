@@ -1,4 +1,4 @@
 **José**
 > ʒoˈzɛ
 
-Currently learning C++ at college and Javascript, HTML5, CSS3. Did learn Python, but I'm not studying or practicing it anymore because isn't my currently goal - *even though I still have a passion for it*.
+Currently learning C++ at college and React by myself. I love working out at the gym and going to the theaters.
